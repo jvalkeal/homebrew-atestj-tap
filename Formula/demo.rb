@@ -1,4 +1,4 @@
-# Generated with JReleaser 1.6.0 at 2023-06-30T14:08:35.929513442+01:00
+# Generated with JReleaser 1.6.0 at 2023-06-30T14:18:45.241569245+01:00
 class Demo < Formula
   desc "Demo App"
   homepage "https://github.com/jvalkeal/atestj"
@@ -7,7 +7,7 @@ class Demo < Formula
   sha256 "c1e58bfbee36f6e3653d8c881e5fc55b77c72c53bb0905e2a23f1430abda6f36"
   license "Apache-2.0"
 
-  depends_on "openjdk@8"
+  depends_on "openjdk@17"
 
   def install
     libexec.install Dir["*"]

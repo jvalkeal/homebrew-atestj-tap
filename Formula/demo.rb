@@ -1,4 +1,4 @@
-# Generated with JReleaser 1.6.0 at 2023-06-30T14:07:37.975600943+01:00
+# Generated with JReleaser 1.6.0 at 2023-06-30T14:08:35.929513442+01:00
 class Demo < Formula
   desc "Demo App"
   homepage "https://github.com/jvalkeal/atestj"
